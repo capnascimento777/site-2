@@ -1,4 +1,4 @@
-let valortitulo = document. getElementById("tituloprincipal")
+let valortitulo = document.getElementById("tituloprincipal").innerText
 console.log(valortitulo);
 
 function mudartitulo(){
